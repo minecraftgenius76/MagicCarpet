@@ -1,0 +1,2 @@
+# MagicCarpet
+Magic Carpet Plugin
