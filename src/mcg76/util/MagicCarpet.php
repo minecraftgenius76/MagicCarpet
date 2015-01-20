@@ -50,7 +50,7 @@ use pocketmine\event\entity\EntityDamageByEntityEvent;
 /**
  * MagicCarpet PlugIn
  *
- * Copyright (C) 2014 minecraftgenius76
+ * Copyright (C) 2015 minecraftgenius76
  * YouTube Channel: http://www.youtube.com/user/minecraftgenius76
  *
  * @author MCG76
