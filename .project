@@ -3,6 +3,7 @@
 	<name>MagicCarpet</name>
 	<comment></comment>
 	<projects>
+		<project>PocketMine-MP</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
