@@ -1,0 +1,14 @@
+name: magic_carpet
+version: 0.1.0
+api: 1.0.0
+main: mcg76\util\MagicCarpet
+author: minecraftgenius76
+description: minecraftgenius76 Magic Carpet 
+commands:
+ magiccarpet:
+  description: "List all Magic Carpet locations"
+  permission: mcg76.plugin.magiccarpet
+permissions:
+ mcg76.plugin.magiccarpet:
+  description: "mcg76.plugin.magiccarpet"
+  default: op
